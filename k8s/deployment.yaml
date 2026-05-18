@@ -5,7 +5,7 @@ metadata:
   namespace: jenkins-builds
   labels:
     app: petclinic
-    version: "1.0"
+
 spec:
   replicas: 1
   selector:
